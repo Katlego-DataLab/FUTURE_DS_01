@@ -1,61 +1,57 @@
 # FUTURE_DS_01
 
-# 📊 E-Commerce Sales Performance Analysis
+#  E-Commerce Sales Performance Analysis
 
-### 🧠 Data Analytics | Business Intelligence | Power BI Ready
+###  Data Analytics | Business Intelligence | Power BI Ready
 
 **By Katlego Mathebula**
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 This project delivers a **full end-to-end business analytics solution** using transactional e-commerce data.
 
-The goal was to transform raw sales data into **actionable business insights**, answering key questions around:
+The goal was to transform raw sales data into actionable business insights, answering key questions around:
 
-* Revenue performance over time
-* Top-performing products and markets
-* Customer behavior and segmentation
-* Operational trends (time-based sales patterns)
+- Revenue performance over time
+- Top-performing products and markets
+- Customer behavior and segmentation
+- Operational trends (time-based sales patterns)
 
-The final output is a **Power BI-ready dataset and dashboard**, designed to support **real business decision-making**.
+The final output is a Power BI-ready dataset and dashboard, designed to support real business decision-making.
 
----
 
-## 💼 Business Problem
+
+## Business Problem
 
 Many businesses collect large amounts of transactional data but struggle to:
 
-* Identify **what drives revenue**
-* Understand **customer value and retention**
-* Detect **underperforming products or markets**
-* Make **data-driven strategic decisions**
+- Identify what drives revenue
+- Understand customer value and retention
+- Detect underperforming products or markets
+- Make data-driven strategic decisions
 
-This project solves that by building a **structured analytics pipeline + KPI framework**.
+This project solves that by building a structured analytics pipeline + KPI framework.
 
----
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & Tools:**
 
-* R (tidyverse, dplyr, ggplot2)
-* Power BI (Dashboarding)
-* Excel (Data export layer)
+- R (tidyverse, dplyr, ggplot2)
+- Power BI (Dashboarding)
+- Excel (Data export layer)
 
 **Libraries Used:**
 
-* `tidyverse` → Data manipulation
-* `lubridate` → Date handling
-* `janitor` → Cleaning column names
-* `skimr` → Data profiling
-* `scales` → Formatting
-* `writexl` → Export to Power BI
+- `tidyverse` → Data manipulation
+- `lubridate` → Date handling
+- `janitor` → Cleaning column names
+- `skimr` → Data profiling
+- `scales` → Formatting
+- `writexl` → Export to Power BI
 
----
-
-## ⚙️ Data Processing Pipeline
+##  Data Processing Pipeline
 
 ### 1️⃣ Data Loading
 
