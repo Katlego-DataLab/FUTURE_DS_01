@@ -53,124 +53,118 @@ This project solves that by building a structured analytics pipeline + KPI frame
 
 ##  Data Processing Pipeline
 
-### 1️⃣ Data Loading
+### **1** Data Loading
 
-* Imported raw dataset (`BusinessSales.csv`)
-* Performed initial structure checks and profiling
+- Imported raw dataset (`BusinessSales.csv`)
+- Performed initial structure checks and profiling
 
-### 2️⃣ Data Cleaning
+### **2** Data Cleaning
 
-* Removed:
+- Removed:
 
-  * Missing customer IDs
-  * Cancelled transactions
-  * Negative quantities/prices
-  * Internal/test product codes
-* Standardized column names
+  - Missing customer IDs
+  - Cancelled transactions
+  - Negative quantities/prices
+  - Internal/test product codes
+- Standardized column names
 
-### 3️⃣ Feature Engineering
+### **3** Feature Engineering
 
 Created key business fields:
 
-* Revenue = Quantity × Unit Price
-* Time features:
+- Revenue = Quantity × Unit Price
+- Time features:
 
-  * Year, Month, Quarter
-  * Day of week, Hour of day
-* Cleaned product descriptions & country names
+  - Year, Month, Quarter
+  - Day of week, Hour of day
+- Cleaned product descriptions & country names
 
----
 
-## 📈 Key KPIs Created
+##  Key KPIs Created
 
-### 💰 Business Performance
+###  Business Performance
 
-* Total Revenue
-* Total Orders
-* Unique Customers
-* Average Order Value (AOV)
+- Total Revenue
+- Total Orders
+- Unique Customers
+- Average Order Value (AOV)
 
-### 📅 Time-Based Analysis
+###  Time-Based Analysis
 
-* Monthly revenue trends
-* Seasonal patterns
+- Monthly revenue trends
+- Seasonal patterns
 
-### 🛍️ Product Performance
+###  Product Performance
 
-* Top-selling products
-* Revenue contribution per product
+- Top-selling products
+- Revenue contribution per product
 
-### 🌍 Market Analysis
+###  Market Analysis
 
-* Revenue by country
-* Customer distribution
+- Revenue by country
+- Customer distribution
 
-### ⏱️ Operational Insights
+###  Operational Insights
 
-* Peak sales hours
-* Best-performing days
+- Peak sales hours
+- Best-performing days
 
----
-
-## 👥 Customer Segmentation (RFM Analysis)
+##  Customer Segmentation (RFM Analysis)
 
 Customers were segmented using:
 
-* **Recency** → How recently they purchased
-* **Frequency** → How often they purchase
-* **Monetary** → How much they spend
+- **Recency** → How recently they purchased
+- **Frequency** → How often they purchase
+- **Monetary** → How much they spend
 
 ### Segments Created:
 
-* 🏆 Champions
-* 💙 Loyal Customers
-* ⚠️ At-Risk Customers
-* ❌ Lost Customers
-* 🔄 Potential Loyalists
+- Champions
+- Loyal Customers
+- At-Risk Customers
+- Lost Customers
+- Potential Loyalists
 
 This allows businesses to:
 
-* Target high-value customers
-* Run retention campaigns
-* Increase lifetime value
+- Target high-value customers
+- Run retention campaigns
+- Increase lifetime value
 
----
+## Key Business Insights
 
-## 📊 Key Business Insights
+ **Revenue Drivers**
 
-✔️ **Revenue Drivers**
+- A small group of products contributes the majority of revenue
+- High-performing months indicate strong seasonality
 
-* A small group of products contributes the majority of revenue
-* High-performing months indicate strong seasonality
+ **Customer Value**
 
-✔️ **Customer Value**
+- “Champions” generate a significant portion of total revenue
+- At-risk customers represent recoverable revenue opportunities
 
-* “Champions” generate a significant portion of total revenue
-* At-risk customers represent **recoverable revenue opportunities**
-
-✔️ **Market Opportunities**
+ **Market Opportunities**
 
 * A few countries dominate sales → expansion potential exists
 
-✔️ **Operational Efficiency**
+**Operational Efficiency**
 
-* Certain hours and days consistently outperform others → optimize staffing & marketing timing
+- Certain hours and days consistently outperform others → optimize staffing & marketing timing
 
----
 
-## 📦 Deliverables
+##  Deliverables
 
 The project exports **Power BI-ready datasets**:
 
-* Clean Transactions
-* Monthly Revenue
-* Top Products
-* Country Revenue
-* Customer Segments (RFM)
-* Cohort Data (Retention)
-* Time Analysis
+- Clean Transactions
+- Monthly Revenue
+- Top Products
+- Country Revenue
+- Customer Segments (RFM)
+- Cohort Data (Retention)
+- Time Analysis
 
-📁 Located in:
+ Located in:
 
 ```
 powerbi_exports/
@@ -198,7 +192,7 @@ The dashboard answers:
 - Schedule promotions during **peak sales periods**
 
 
-## 🔗 Author
+##  Author
 
 **Katlego Mathebula**
 📍 Johannesburg, South Africa
@@ -208,6 +202,5 @@ The dashboard answers:
 
 
 
-This project demonstrates my ability to **bridge data and business strategy**, turning raw data into **clear, actionable insights that drive decision-making**.
+This project demonstrates my ability to bridge data and business strategy, turning raw data into clear, actionable insights that drive decision-making.
 
----
