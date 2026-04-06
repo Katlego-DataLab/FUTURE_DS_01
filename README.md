@@ -186,7 +186,7 @@ Two-panel view. Left panel: bubble chart placing each segment by average frequen
 ### Chart 5 — Sales Heatmap (Day × Hour)
 Calendar heatmap with days of the week on the y-axis and hours of the day on the x-axis. Darker green = more orders. White labels highlight the top-quartile trading hours — these are the windows to prioritise for promotions and staffing.
 
-![Sales Heatmap](powerbi_exports/charts/05_sales_heatmap.png)
+![Sales Heatmap](https://github.com/Katlego-DataLab/FUTURE_DS_01/blob/main/C%20.jpeg)
 
 ---
 
