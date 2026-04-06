@@ -172,7 +172,7 @@ Lollipop chart ranking the top 20 products. Dot size encodes units sold, so you 
 ### Chart 3 — Revenue by Country
 Horizontal bar chart of the top 15 markets. Bar colour encodes average order value — darker teal = higher spend per order. The percentage label shows each country's share of top-15 revenue.
 
-![Country Revenue](powerbi_exports/charts/03_country_revenue.png)
+![Country Revenue](https://github.com/Katlego-DataLab/FUTURE_DS_01/blob/main/D.jpeg)
 
 ---
 
