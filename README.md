@@ -31,7 +31,7 @@ The pipeline covers:
 - Raw data ingestion and profiling
 - Multi-layer data cleaning and validation
 - Feature engineering (revenue, time fields, customer metrics)
-- 6 KPI tables built for Power BI
+- 5 KPI tables built for Power BI
 - RFM customer segmentation
 - Cohort retention analysis (completed with retention rates)
 - 7 ggplot2 visualisations with a consistent professional theme
