@@ -193,7 +193,7 @@ Calendar heatmap with days of the week on the y-axis and hours of the day on the
 ### Chart 6 — Customer Cohort Retention
 Each row represents customers who made their first purchase in a given month. Each column shows the percentage still purchasing in subsequent months. Green = strong retention, orange/coral = drop-off. This directly answers: *do customers come back?*
 
-![Cohort Retention](powerbi_exports/charts/06_cohort_retention.png)
+![Cohort Retention](https://github.com/Katlego-DataLab/FUTURE_DS_01/blob/main/E%20.jpeg)
 
 ---
 
