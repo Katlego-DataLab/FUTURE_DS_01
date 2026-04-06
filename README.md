@@ -179,7 +179,7 @@ Horizontal bar chart of the top 15 markets. Bar colour encodes average order val
 ### Chart 4 — RFM Customer Segmentation Dashboard
 Two-panel view. Left panel: bubble chart placing each segment by average frequency (x) and average spend (y), with bubble size showing customer count. Right panel: revenue contribution bar chart showing what each segment is actually worth.
 
-![RFM Segments](powerbi_exports/charts/04_rfm_segments.png)
+![RFM Segments](https://github.com/Katlego-DataLab/FUTURE_DS_01/blob/main/B%20.jpeg)
 
 ---
 
