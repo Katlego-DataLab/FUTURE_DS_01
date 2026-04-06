@@ -15,7 +15,7 @@ Many e-commerce businesses collect millions of rows of transactional data but st
 
 - **Which products are actually driving revenue?**
 - **Which customers are at risk of leaving?**
-- **When do sales peak — and are we staffed for it?**
+- **When do sales peak and are we staffed for it?**
 - **Which markets should we expand into?**
 
 Without a structured analytics pipeline, this data sits unused while businesses make decisions based on gut feel. This project solves that.
