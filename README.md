@@ -1,9 +1,5 @@
 # FUTURE_DS_01
 ## E-COMMERCE SALES PERFORMANCE ANALYSIS
-## Analyst : Katlego Mathebula
-## Date    : 26 March 2026
-## Dataset : UCI E-Commerce Dataset (Kaggle)
-
 ### Data Analytics | Business Intelligence | Power BI Ready
 **By Katlego Mathebula**
 
