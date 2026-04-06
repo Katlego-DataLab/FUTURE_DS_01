@@ -7,7 +7,10 @@
 **By Katlego Mathebula**
 
 ![ image alt](https://github.com/Katlego-DataLab/FUTURE_DS_01/blob/main/FUTURE%20INTERNS%20DASHBOARD%201.jpeg)
+
+
 [POWER BI DASHBOARD](https://app.powerbi.com/groups/me/reports/c6baecd6-d8ef-42bc-9e7a-bb9d98181a66?experience=power-bi)
+
 ## Project Overview
 
 This project delivers a **full end-to-end business analytics solution** using transactional e-commerce data.
