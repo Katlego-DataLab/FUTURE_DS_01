@@ -158,7 +158,7 @@ Customers scored on three dimensions:
 ### Chart 1 — Monthly Revenue & Average Order Value
 Tracks total revenue per month as bars, with average order value as a dashed overlay line. Month-on-month growth percentages label each bar. The coral bar marks the peak revenue month.
 
-![Monthly Revenue](powerbi_exports/charts/01_monthly_revenue.png)
+![Monthly Revenue](https://github.com/Katlego-DataLab/FUTURE_DS_01/blob/main/F%20.jpeg)
 
 ---
 
