@@ -165,7 +165,7 @@ Tracks total revenue per month as bars, with average order value as a dashed ove
 ### Chart 2 — Top 20 Products by Revenue
 Lollipop chart ranking the top 20 products. Dot size encodes units sold, so you can instantly spot high-revenue / low-volume products (high margin) vs high-revenue / high-volume products (high turnover).
 
-![Top Products](powerbi_exports/charts/02_top_products.png)
+![Top Products](https://github.com/Katlego-DataLab/FUTURE_DS_01/blob/main/A%20.jpeg)
 
 ---
 
