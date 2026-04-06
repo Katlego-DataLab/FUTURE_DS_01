@@ -200,7 +200,7 @@ Each row represents customers who made their first purchase in a given month. Ea
 ### Chart 7 — Customer Lifetime Value Distribution
 Histogram of total spend per customer, coloured by RFM segment. The dashed line marks the median CLV. The long right tail of Champions is clearly visible — the business case for protecting that segment.
 
-![CLV Distribution](powerbi_exports/charts/07_clv_distribution.png)
+![CLV Distribution](https://github.com/Katlego-DataLab/FUTURE_DS_01/blob/main/G%20.jpeg)
 
 ---
 
@@ -208,17 +208,17 @@ Histogram of total spend per customer, coloured by RFM segment. The dashed line 
 
 > These are the answers the pipeline was built to find.
 
-**Revenue is seasonal** — the monthly trend chart reveals clear peaks. Marketing and inventory planning should align with these windows rather than be spread evenly across the year.
+**Revenue is seasonal** > the monthly trend chart reveals clear peaks. Marketing and inventory planning should align with these windows rather than be spread evenly across the year.
 
-**A small number of products drives most revenue** — the top 20 products represent a disproportionate share of total sales. Stock availability and promotional budget should be concentrated here first.
+**A small number of products drives most revenue** > the top 20 products represent a disproportionate share of total sales. Stock availability and promotional budget should be concentrated here first.
 
-**Champions are a small group worth protecting** — this segment generates a significant portion of total revenue from a fraction of the customer base. Losing even a few of them has outsized impact.
+**Champions are a small group worth protecting** >  this segment generates a significant portion of total revenue from a fraction of the customer base. Losing even a few of them has outsized impact.
 
-**At-risk customers represent recoverable revenue** — customers in the At-Risk and Cannot Lose Them segments have demonstrated they buy. A targeted win-back campaign costs far less than acquiring new customers at the same value.
+**At-risk customers represent recoverable revenue** >  customers in the At-Risk and Cannot Lose Them segments have demonstrated they buy. A targeted win-back campaign costs far less than acquiring new customers at the same value.
 
-**A few markets dominate but some smaller markets have higher AOV** — the country chart reveals which markets punch above their weight on spend per order. These are the best candidates for focused expansion investment.
+**A few markets dominate but some smaller markets have higher AOV** > the country chart reveals which markets punch above their weight on spend per order. These are the best candidates for focused expansion investment.
 
-**Peak trading hours are concentrated** — the heatmap shows orders cluster into predictable windows. Promotions, email sends, and staffing can be timed to match actual demand rather than assumption.
+**Peak trading hours are concentrated** > the heatmap shows orders cluster into predictable windows. Promotions, email sends, and staffing can be timed to match actual demand rather than assumption.
 
 ---
 
