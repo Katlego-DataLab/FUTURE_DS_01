@@ -6,7 +6,7 @@
 
 **By Katlego Mathebula**
 
-![ image alt]( https://github.com/Katlego-DataLab/FUTURE_DS_01/blob/main/e-commerce%20business%20photo.jpeg?raw=true)
+![ image alt](https://github.com/Katlego-DataLab/FUTURE_DS_01/blob/main/FUTURE%20INTERNS%20DASHBOARD%201.jpeg)
 
 ## Project Overview
 
