@@ -292,4 +292,4 @@ install.packages(c("tidyverse", "lubridate", "scales", "janitor",
 
 ---
 
-*This project demonstrates the ability to bridge data engineering and business strategy — turning raw transactional data into clear, actionable insights that drive real decisions.*
+*This project demonstrates the ability to bridge data engineering and business strategy turning raw transactional data into clear, actionable insights that drive real decisions.*
